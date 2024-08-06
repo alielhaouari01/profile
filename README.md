@@ -1,4 +1,4 @@
-# profile
+# Ali El Haouari
 👋 Hi, I’m Ali El Haouari 
 👀 I’m interested in Computer Science and Technology 
 🌱 I’m currently learning AI 
